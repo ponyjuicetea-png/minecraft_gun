@@ -1,0 +1,24 @@
+{
+  "status": "server-tested-development-preview",
+  "minecraft": "1.20.1",
+  "forge": "47.4.10",
+  "addon_build": "passed",
+  "upstream_download_hashes": "verified",
+  "official_launcher_profile": "installed-in-isolated-game-directory",
+  "powershell_installer": "passed-on-this-computer-with-verified-cache",
+  "powershell_script_syntax": "passed",
+  "eula": "accepted-by-local-user-2026-10-17",
+  "native_server_projectiles_and_npc_ai": "passed-on-native-Forge-server-using-FakePlayer-fixtures",
+  "two_authenticated_network_clients": "not-tested-no-licensed-Java-accounts-available",
+  "client_graphics_and_shader_performance": "not-tested",
+  "new_installation_eula": "left-false-for-the-recipient-to-accept",
+  "native_server_checks_passed": 29,
+  "installed_server_start_status_and_save_stop": "passed-over-TCP-25565",
+  "configured_player_capacity": 8,
+  "addon_sha256": "8bf3b929ee9af0c8ccad6125d57ce8fa5fcab29dbfa13e6e90b0f6e14a99e651",
+  "reports": [
+    "reports/native-integration.json",
+    "reports/installed-server.json",
+    "reports/qa-server-status.json"
+  ]
+}

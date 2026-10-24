@@ -1,0 +1,47 @@
+; Engine configuration file.
+; It's best edited using the editor UI and not directly,
+; since the parameters that go here are not all obvious.
+;
+; Format:
+;   [section] ; section goes between []
+;   param=value ; assign values to parameters
+
+config_version=5
+
+[application]
+
+config/name="FrontlineStandalone"
+run/main_scene="res://frontline/main.tscn"
+config/features=PackedStringArray("4.4")
+config/icon="res://icon.png"
+
+[autoload]
+
+DDD="*res://addons/zylann.debug_draw/debug_draw.gd"
+
+[display]
+
+window/size/viewport_width=1280
+window/size/viewport_height=720
+window/size/window_width_override=1280
+window/size/window_height_override=720
+
+window/stretch/mode="canvas_items"
+window/stretch/aspect="expand"
+
+[filesystem]
+
+import/blender/enabled=false
+
+[physics]
+
+3d/physics_engine="Jolt Physics"
+
+[rendering]
+
+limits/global_shader_variables/buffer_size=262144
+shadows/shadow_atlas/size=8192
+shadows/shadow_atlas/quadrant_0_subdiv=1
+shadows/shadow_atlas/quadrant_1_subdiv=1
+shadows/shadow_atlas/quadrant_2_subdiv=1
+shadows/shadow_atlas/quadrant_3_subdiv=1

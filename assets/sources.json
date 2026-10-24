@@ -1,0 +1,37 @@
+[
+  {
+    "asset": "concrete_floor_02",
+    "page": "https://polyhaven.com/a/concrete_floor_02",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/concrete_floor_02/concrete_floor_02_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "6db84a6d87dc50508b9d134d6fbd2b7e876b8081a5f43a118a249ca18de73af5"
+  },
+  {
+    "asset": "brown_planks_03",
+    "page": "https://polyhaven.com/a/brown_planks_03",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_planks_03/brown_planks_03_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "8dfae22286fa9bb0ed62ce7326e8bc14c284e567d38fd64b5a453838080ecf19"
+  },
+  {
+    "asset": "brown_mud_02",
+    "page": "https://polyhaven.com/a/brown_mud_02",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/brown_mud_02/brown_mud_02_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "058b6f12493305ec6b47cb5ea77f013c9e7e58216b34af3700a3d3d7d821732d"
+  },
+  {
+    "asset": "rock_06",
+    "page": "https://polyhaven.com/a/rock_06",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/rock_06/rock_06_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "0f9f0fc0438f99cdd9e33cfadc9ba01c527f74c1085fdac425e06e6a808a7736"
+  },
+  {
+    "asset": "aerial_grass_rock",
+    "page": "https://polyhaven.com/a/aerial_grass_rock",
+    "url": "https://dl.polyhaven.org/file/ph-assets/Textures/jpg/1k/aerial_grass_rock/aerial_grass_rock_diff_1k.jpg",
+    "license": "CC0-1.0",
+    "sha256": "57b8041bfe0d0f01430e4dbaad45e7ddddf0a9fc97317f90dbc51f7b0d9e1b5d"
+  }
+]

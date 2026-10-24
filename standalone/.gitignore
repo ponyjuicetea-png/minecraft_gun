@@ -1,0 +1,8 @@
+/.cache/
+/runtime/
+/export-template/
+/upstream/
+/dist/
+/game/.godot/
+/game/blocky_game/save/
+__pycache__/

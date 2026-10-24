@@ -1,0 +1,10 @@
+/.cache/
+/runtime/
+/worlds/
+/logs/
+/dist/
+/tests/artifacts/
+/config/client-*.conf
+/config/client-*.password
+__pycache__/
+*.pyc

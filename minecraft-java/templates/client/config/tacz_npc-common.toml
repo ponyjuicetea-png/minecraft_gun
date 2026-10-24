@@ -1,0 +1,8 @@
+"base multiplier" = 1.0
+"base player multiplier" = 0.35
+dropitems = true
+despawntime = 1200
+min = 3
+max = 6
+from = 200
+to = 800

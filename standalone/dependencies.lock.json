@@ -1,0 +1,29 @@
+{
+  "engine_repo": "https://github.com/Zylann/godot_voxel",
+  "engine_release": "v1.7",
+  "demo_repo": "https://github.com/Zylann/voxelgame",
+  "demo_commit": "4cf747a8456375e527c8c976c50fb24446f9d18f",
+  "artifacts": [
+    {
+      "name": "godot_voxel_editor",
+      "url": "https://github.com/Zylann/godot_voxel/releases/download/v1.7/godot.windows.editor.x86_64.exe.zip",
+      "sha256": "e2292adb0b671508ab220fce5bcd052b1c20674a3385d89c6b38601e6e1f956b",
+      "official_digest": "sha256:e2292adb0b671508ab220fce5bcd052b1c20674a3385d89c6b38601e6e1f956b",
+      "bytes": 89358763
+    },
+    {
+      "name": "godot_voxel_export",
+      "url": "https://github.com/Zylann/godot_voxel/releases/download/v1.7/godot.windows.template_release.x86_64.exe.zip",
+      "sha256": "86fe371ed80948ccb4b4ac78a0e62e2917bc257890bdaa62b4f6e7aa402f0775",
+      "official_digest": "sha256:86fe371ed80948ccb4b4ac78a0e62e2917bc257890bdaa62b4f6e7aa402f0775",
+      "bytes": 31387722
+    },
+    {
+      "name": "voxelgame",
+      "url": "https://codeload.github.com/Zylann/voxelgame/zip/4cf747a8456375e527c8c976c50fb24446f9d18f",
+      "sha256": "5e9bd41ec815acae8c5aecc29f1b15238bd275d3b96e9d4c5707967e547809ab",
+      "official_digest": null,
+      "bytes": 9530403
+    }
+  ]
+}

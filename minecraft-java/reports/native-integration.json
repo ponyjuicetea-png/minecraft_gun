@@ -1,0 +1,125 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "native_minecraft_blocks",
+      "passed": true
+    },
+    {
+      "name": "two_distinct_simulated_players",
+      "passed": true
+    },
+    {
+      "name": "tacz_real_gun_class",
+      "passed": true
+    },
+    {
+      "name": "m4a1_loadout",
+      "passed": true
+    },
+    {
+      "name": "loaded_magazine",
+      "passed": true
+    },
+    {
+      "name": "sidearm_loadout",
+      "passed": true
+    },
+    {
+      "name": "native_interactive_handbook",
+      "passed": true
+    },
+    {
+      "name": "resupply_preserves_survival_items",
+      "passed": true
+    },
+    {
+      "name": "resupply_does_not_duplicate_issued_guns",
+      "passed": true
+    },
+    {
+      "name": "armed_npc_registered",
+      "passed": true
+    },
+    {
+      "name": "armed_npc_is_native_mob",
+      "passed": true
+    },
+    {
+      "name": "npc_has_real_tacz_firearm",
+      "passed": true
+    },
+    {
+      "name": "tacz_server_shoot_operator",
+      "passed": true
+    },
+    {
+      "name": "tacz_shot_consumes_magazine",
+      "passed": true
+    },
+    {
+      "name": "tacz_projectile_damages_humanoid_npc",
+      "passed": true
+    },
+    {
+      "name": "simulated_player_can_receive_normal_damage",
+      "passed": true
+    },
+    {
+      "name": "armed_npc_ai_returns_fire",
+      "passed": true
+    },
+    {
+      "name": "victim_survives_test_shot",
+      "passed": true
+    },
+    {
+      "name": "npc_target_removal_does_not_crash_server",
+      "passed": true
+    },
+    {
+      "name": "pvp_requires_at_least_two_players",
+      "passed": true
+    },
+    {
+      "name": "pvp_accepts_two_simulated_players",
+      "passed": true
+    },
+    {
+      "name": "pvp_players_spawn_on_opposite_sides",
+      "passed": true
+    },
+    {
+      "name": "pvp_issues_tacz_weapon_to_both_players",
+      "passed": true
+    },
+    {
+      "name": "coop_groups_players_without_friendly_fire",
+      "passed": true
+    },
+    {
+      "name": "two_player_coop_spawns_six_armed_enemies",
+      "passed": true
+    },
+    {
+      "name": "npc_kills_increment_score",
+      "passed": true
+    },
+    {
+      "name": "npc_deaths_leave_lootable_corpses",
+      "passed": true
+    },
+    {
+      "name": "coop_advances_after_corpses_to_eight_enemy_wave",
+      "passed": true
+    },
+    {
+      "name": "stop_removes_all_wave_enemies_and_corpses",
+      "passed": true
+    }
+  ],
+  "players": "Two Forge FakePlayer fixtures; not two authenticated network clients",
+  "shotResult": "SUCCESS",
+  "test_run": "20261017-120641",
+  "addon_sha256": "8bf3b929ee9af0c8ccad6125d57ce8fa5fcab29dbfa13e6e90b0f6e14a99e651"
+}

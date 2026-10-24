@@ -1,0 +1,2 @@
+# Review https://www.minecraft.net/eula before accepting.
+eula=false

@@ -1,0 +1,78 @@
+{
+  "passed": true,
+  "checks": [
+    {
+      "name": "dedicated_server_without_account",
+      "passed": true
+    },
+    {
+      "name": "two_real_enet_clients_connected",
+      "passed": true
+    },
+    {
+      "name": "two_players_replicated_to_both_clients",
+      "passed": true
+    },
+    {
+      "name": "terrain_streamed_and_players_grounded",
+      "passed": true
+    },
+    {
+      "name": "client_block_placement_replicates_to_server_and_other_client",
+      "passed": true
+    },
+    {
+      "name": "client_mining_replicates_to_server_and_other_client",
+      "passed": true
+    },
+    {
+      "name": "cooperative_wave_six_armed_enemies",
+      "passed": true
+    },
+    {
+      "name": "enemies_replicated_to_both_clients",
+      "passed": true
+    },
+    {
+      "name": "npc_fire_damages_a_real_network_player",
+      "passed": true
+    },
+    {
+      "name": "client_tacz_style_rifle_hits_enemy",
+      "passed": true
+    },
+    {
+      "name": "enemy_death_awards_score",
+      "passed": true
+    },
+    {
+      "name": "server_authoritative_reload_completes",
+      "passed": true
+    },
+    {
+      "name": "pvp_clears_coop_enemies",
+      "passed": true
+    },
+    {
+      "name": "pvp_player_kill_awards_score",
+      "passed": true
+    },
+    {
+      "name": "network_player_respawns_with_loadout",
+      "passed": true
+    },
+    {
+      "name": "world_change_ready_for_persistence",
+      "passed": true
+    },
+    {
+      "name": "world_written_and_processes_stop_cleanly",
+      "passed": true
+    }
+  ],
+  "transport": "Godot ENet UDP; dedicated server + two independent client processes",
+  "external_accounts": "none",
+  "internet_authentication_services": "none",
+  "test_scope": "one physical computer, loopback network",
+  "run": "20261017-122509"
+}

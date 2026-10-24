@@ -1,0 +1,17 @@
+{
+  "luanti": {
+    "version": "5.17.0",
+    "url": "https://github.com/luanti-org/luanti/releases/download/5.17.0/luanti-5.17.0-win64.zip",
+    "sha256": "3ce20c77f5c206a988d7a6b883439e2759e3cf67428c9dbcf99ecd2936da631c",
+    "source": "https://github.com/luanti-org/luanti/tree/5.17.0",
+    "license": "LGPL-2.1-or-later"
+  },
+  "voxelibre": {
+    "version": "0.92.3",
+    "commit": "a523240fb89713ffa6302696e8275bbd7de3bd49",
+    "url": "https://codeload.github.com/VoxeLibre/VoxeLibre/zip/a523240fb89713ffa6302696e8275bbd7de3bd49",
+    "source": "https://github.com/VoxeLibre/VoxeLibre/tree/0.92.3",
+    "license": "GPL-3.0-or-later; media: see bundled LEGAL.md",
+    "sha256": "4c3b3cacdd745c870a4330df20672b3418ac3c22dd20909faa3af4d15d14f3f5"
+  }
+}

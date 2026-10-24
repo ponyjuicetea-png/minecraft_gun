@@ -1,0 +1,2 @@
+Photographic source surfaces: Poly Haven, CC0-1.0.
+See ../../assets/sources.json and THIRD_PARTY.md in the project root.

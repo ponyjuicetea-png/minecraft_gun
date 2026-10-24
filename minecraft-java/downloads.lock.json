@@ -1,0 +1,214 @@
+{
+  "minecraft": "1.20.1",
+  "forge": "47.4.10",
+  "java": {
+    "version": "17.0.20+101",
+    "url": "https://github.com/adoptium/temurin17-binaries/releases/download/jdk-17.0.20.1%2B1/OpenJDK17U-jdk_x64_windows_hotspot_17.0.20.1_1.zip",
+    "sha256": "e53a79c3c3d86865bd7e787903884331068e71321714ffd44f145785affc7cb0",
+    "filename": "OpenJDK17U-jdk_x64_windows_hotspot_17.0.20.1_1.zip"
+  },
+  "mods": [
+    {
+      "slug": "timeless-and-classics-zero",
+      "project": "SzzJttH8",
+      "version": "1.1.8-hotfix2",
+      "version_id": "AzCBJlex",
+      "side": "both",
+      "filename": "tacz-1.20.1-1.1.8-hotfix2.jar",
+      "url": "https://cdn.modrinth.com/data/SzzJttH8/versions/AzCBJlex/tacz-1.20.1-1.1.8-hotfix2.jar",
+      "size": 57472579,
+      "hashes": {
+        "sha512": "fa8b4bd4a7a0835092bccbb28a18461642d4e7a2f6fdb762ac4978d4dbc31d1f0f61c685343a61607dce3d1cd89f4314b61a9f8811960b9d0604692ac3fff96d",
+        "sha1": "5c2f72dfe8125ffa863e3b5feafa27d86d7e56ea"
+      },
+      "license": {
+        "id": "GPL-3.0-only",
+        "name": "GNU General Public License v3.0 only",
+        "url": null
+      },
+      "source": "https://github.com/MCModderAnchor/TACZ",
+      "dependencies": []
+    },
+    {
+      "slug": "smartbrainlib",
+      "project": "PuyPazRT",
+      "version": "1.15",
+      "version_id": "YkeJNm33",
+      "side": "both",
+      "filename": "SmartBrainLib-forge-1.20.1-1.15.jar",
+      "url": "https://cdn.modrinth.com/data/PuyPazRT/versions/YkeJNm33/SmartBrainLib-forge-1.20.1-1.15.jar",
+      "size": 362339,
+      "hashes": {
+        "sha1": "366e0f0c7ca746fee327392d3569b31aefd34b5a",
+        "sha512": "51754d743b86bf89da5c15a1c2b733f4b3713bf2aa7e6bd4d920cd36bc7923f2de316903fbe0d675a37f848929508c0e418dec1ecf7e87342f547fe32e75f8f4"
+      },
+      "license": {
+        "id": "MPL-2.0",
+        "name": "Mozilla Public License 2.0",
+        "url": null
+      },
+      "source": "https://github.com/Tslat/SmartBrainLib",
+      "dependencies": []
+    },
+    {
+      "slug": "playeranimator",
+      "project": "gedNE4y2",
+      "version": "1.0.2-rc1+1.20-forge",
+      "version_id": "xe2EVE6q",
+      "side": "both",
+      "filename": "player-animation-lib-forge-1.0.2-rc1+1.20.jar",
+      "url": "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar",
+      "size": 181437,
+      "hashes": {
+        "sha1": "16808f94a41d45d8e986b4e4ea6b02ba57fa058a",
+        "sha512": "cb9f6a3aaa943823a85fdd716ddb3c7623af2b3520926c3a98d170c52d31908894808fb61c52bea39bae622dbab59d50b4bad56f7ca0533a9c3350d412c33729"
+      },
+      "license": {
+        "id": "MIT",
+        "name": "MIT License",
+        "url": null
+      },
+      "source": "https://github.com/KosmX/fabricPlayerAnimation",
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "aRnIEV0F",
+          "file_name": null,
+          "dependency_type": "optional"
+        }
+      ]
+    },
+    {
+      "slug": "embeddium",
+      "project": "sk9rgfiA",
+      "version": "0.3.31+mc1.20.1",
+      "version_id": "UTbfe5d1",
+      "side": "client",
+      "filename": "embeddium-0.3.31+mc1.20.1.jar",
+      "url": "https://cdn.modrinth.com/data/sk9rgfiA/versions/UTbfe5d1/embeddium-0.3.31%2Bmc1.20.1.jar",
+      "size": 1320675,
+      "hashes": {
+        "sha512": "ffbf2da4685260a4d5c14c621708bd20722563f084f042d3dfb0a7b87f048e39299648c854a93939129da0d23a15a91ec628560d601e76074b08e275f6e132e9",
+        "sha1": "bb2fa8f3e493af16af9160d049f96c614a1faf2f"
+      },
+      "license": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      },
+      "source": "https://github.com/FiniteReality/embeddium",
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "S1tndFDa",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        },
+        {
+          "version_id": null,
+          "project_id": "4ZqxOvjD",
+          "file_name": null,
+          "dependency_type": "incompatible"
+        }
+      ]
+    },
+    {
+      "slug": "oculus",
+      "project": "GchcoXML",
+      "version": "1.20.1-1.8.0",
+      "version_id": "iQ1SwGc3",
+      "side": "client",
+      "filename": "oculus-mc1.20.1-1.8.0.jar",
+      "url": "https://cdn.modrinth.com/data/GchcoXML/versions/iQ1SwGc3/oculus-mc1.20.1-1.8.0.jar",
+      "size": 2851119,
+      "hashes": {
+        "sha512": "1bb4ac77400d6684347988ed298a692c2cb15cf7923693607eb8739b171a20fef7412259e9e157111d9ce21779badab386029956f7d2283a9e611722a373e9d5",
+        "sha1": "984f774e71790deaec674c7587bd24e0711871b2"
+      },
+      "license": {
+        "id": "LGPL-3.0-only",
+        "name": "GNU Lesser General Public License v3.0 only",
+        "url": null
+      },
+      "source": "https://github.com/Asek3/Oculus",
+      "dependencies": [
+        {
+          "version_id": null,
+          "project_id": "sk9rgfiA",
+          "file_name": null,
+          "dependency_type": "required"
+        }
+      ]
+    },
+    {
+      "slug": "complementary-unbound",
+      "project": "R6NEzAwj",
+      "version": "r5.9.3",
+      "version_id": "B1kyfoUZ",
+      "side": "shader",
+      "filename": "ComplementaryUnbound_r5.9.3.zip",
+      "url": "https://cdn.modrinth.com/data/R6NEzAwj/versions/B1kyfoUZ/ComplementaryUnbound_r5.9.3.zip",
+      "size": 553400,
+      "hashes": {
+        "sha1": "2ee08300e1d6f039e63eae8484dddf57b3aaaf67",
+        "sha512": "a085d1d8cda67cd17a2b414eeba48bbd809da069f269bab46246235ec8fe714a275013c70d0504527b0987d810deddddba4564332414ab3b3bd7435932ff808c"
+      },
+      "license": {
+        "id": "LicenseRef-Custom",
+        "name": "",
+        "url": "https://github.com/ComplementaryDevelopment/ComplementaryShadersV4/blob/main/License.txt"
+      },
+      "source": "https://github.com/ComplementaryDevelopment/ComplementaryReimagined",
+      "dependencies": []
+    },
+    {
+      "slug": "rotrblocks",
+      "project": "A8aBf1Xa",
+      "version": "V88-2D-Foliage",
+      "version_id": "cYuAWAwZ",
+      "side": "resourcepack",
+      "filename": "rotrBLOCKS V88 [2D Foliage] 128x 26.3-1.13.zip",
+      "url": "https://cdn.modrinth.com/data/A8aBf1Xa/versions/cYuAWAwZ/rotrBLOCKS%20V88%20%5B2D%20Foliage%5D%20128x%2026.3-1.13.zip",
+      "size": 194150462,
+      "hashes": {
+        "sha512": "9fe79087ec11cab517658e46fa07bec85503486113cfdf8c0a14102660e6b68de73ea5329ada143abbe7546a76083e3d02cda707c44ef3a935a69e6898da755b",
+        "sha1": "aeee371ef73f0c6f924196ee60339cbe87faa8fb"
+      },
+      "license": {
+        "id": "LicenseRef-Terms-of-use",
+        "name": "",
+        "url": "https://illystray.com/terms/"
+      },
+      "source": null,
+      "dependencies": []
+    },
+    {
+      "slug": "tacz-npcs-craftorio",
+      "project": null,
+      "version": "1.0.3-craftorio",
+      "version_id": null,
+      "side": "both",
+      "filename": "tacz_npc-1.0.3-craftorio.jar",
+      "url": "https://github.com/craftorio/tacz-npcs/releases/download/1.0.3/tacz_npc-1.0.3-craftorio.jar",
+      "size": 449756,
+      "hashes": {
+        "sha512": "1ac158d4c8f4bda92818b872b1ed3b32b3cebedfacbc04dc23063f8b36011e674ca98710d051f8025d9c1fd915da8095b73871f7b3f6ea0a64ea99b7877e2b6a",
+        "sha1": "f005f3871f47088e6c3df5c4ee1edaa184aa2042"
+      },
+      "license": {
+        "id": "LicenseRef-Upstream-Notices"
+      },
+      "source": "https://github.com/craftorio/tacz-npcs/tree/1.0.3",
+      "dependencies": [
+        {
+          "project_id": "PuyPazRT",
+          "dependency_type": "required"
+        }
+      ]
+    }
+  ],
+  "forge_installer": {
+    "filename": "forge-1.20.1-47.4.10-installer.jar",
+    "sha256": "1912760b4cb6b803d8a826de603c9076b1da71ec2765e9a1f8c1ca78f65278e3"
+  }
+}

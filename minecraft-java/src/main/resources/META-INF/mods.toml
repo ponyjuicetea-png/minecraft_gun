@@ -1,0 +1,33 @@
+modLoader="javafml"
+loaderVersion="[47,)"
+license="MIT"
+[[mods]]
+modId="frontline_ops"
+version="1.0.0"
+displayName="Frontline Operations"
+authors="Frontline contributors"
+description='''Cooperative armed-NPC waves and player deathmatch for Minecraft Java and TaCZ.'''
+[[dependencies.frontline_ops]]
+modId="forge"
+mandatory=true
+versionRange="[47.4.10,)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.frontline_ops]]
+modId="minecraft"
+mandatory=true
+versionRange="[1.20.1,1.20.2)"
+ordering="NONE"
+side="BOTH"
+[[dependencies.frontline_ops]]
+modId="tacz"
+mandatory=true
+versionRange="[1.1.8,)"
+ordering="AFTER"
+side="BOTH"
+[[dependencies.frontline_ops]]
+modId="tacz_npc"
+mandatory=true
+versionRange="[1.0.3,)"
+ordering="AFTER"
+side="BOTH"

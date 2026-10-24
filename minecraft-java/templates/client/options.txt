@@ -1,0 +1,10 @@
+lang:zh_tw
+renderDistance:8
+simulationDistance:6
+maxFps:90
+fullscreen:false
+overrideWidth:1280
+overrideHeight:720
+fov:0.25
+resourcePacks:["vanilla", "mod_resources", "file/rotrBLOCKS V88 [2D Foliage] 128x 26.3-1.13.zip"]
+incompatibleResourcePacks:["file/rotrBLOCKS V88 [2D Foliage] 128x 26.3-1.13.zip"]

@@ -1,0 +1,15 @@
+{
+  "passed": true,
+  "installed_forge_server": "1.20.1-47.4.10",
+  "server_list_protocol": "passed-over-real-tcp-25565",
+  "max_players": 8,
+  "authenticated_players": 0,
+  "network_login": "not-tested-no-licensed-accounts-available",
+  "stop_shortcut": "owned-process-checked; all dimensions saved; exit code 0",
+  "tested_addon_sha256": "438313e1d8c17ef6f362ed0251dca31be89c15c6588917f25479bd3218ccc4f3",
+  "production_classes_identical_to_current_addon": [
+    "dev/frontline/Battlefield.class",
+    "dev/frontline/Equipment.class",
+    "dev/frontline/FrontlineOperations.class"
+  ]
+}

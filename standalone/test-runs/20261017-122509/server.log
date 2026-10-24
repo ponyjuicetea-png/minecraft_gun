@@ -1,0 +1,14 @@
+Godot Engine v4.7.2.stable.custom_build.ed1daf0bf (2026-08-17 01:18:38 UTC) - https://godotengine.org
+
+Constructing blocks.gd
+FRONTLINE_STANDALONE_READY mode=2 port=28315
+Server: peer 751552464 connected
+Server: Sending own character to 751552464
+Server: peer 370696810 connected
+Server: Sending own character to 370696810
+Server: Sending remote character 751552464 to 370696810
+Server: Sending remote character 751552464 to other 370696810
+FRONTLINE_WAVE 1 6
+Server: Peer 751552464 disconnected
+Server: Peer 370696810 disconnected
+Deleting blocks.gd

@@ -1,0 +1,5 @@
+frontline_arena (Create the Frontline arena and equip joining players) bool true
+frontline_spawn_protection (Seconds of spawn protection) float 3 0 10
+frontline_score_limit (Kills required to win a round) int 10 1 100
+frontline_auto_respawn (Automatically respawn after death) bool true
+frontline_test_mode (Disable random spread for isolated automated tests) bool false
